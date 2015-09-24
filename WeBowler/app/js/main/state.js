@@ -9,18 +9,18 @@ app.config(['$stateProvider', function($stateProvider) {
     })
     .state('app.game', {
       url: '/game',
-      templateUrl: 'js/main/templates/about.tpl.html',
-      controller: 'AboutCtrl'
+      templateUrl: 'js/main/templates/game.tpl.html',
+      controller: 'GameCtrl'
     })
     .state('app.stats', {
       url: '/stats',
-      templateUrl: 'js/main/templates/about.tpl.html',
-      controller: 'AboutCtrl'
+      templateUrl: 'js/main/templates/stats.tpl.html',
+      controller: 'StatsCtrl'
     })
     .state('app.league', {
       url: '/league',
-      templateUrl: 'js/main/templates/contact.tpl.html',
-      controller: 'ContactCtrl'
+      templateUrl: 'js/main/templates/league.tpl.html',
+      controller: 'LeagueCtrl'
     });
 
 }]);
