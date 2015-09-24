@@ -1,7 +1,5 @@
 C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\bin\Debug\WeBowlerUnitTest.dll
 C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\bin\Debug\WeBowlerUnitTest.pdb
-C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\obj\Debug\WeBowlerUnitTest.csprojResolveAssemblyReference.cache
 C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\obj\Debug\WeBowlerUnitTest.dll
 C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\obj\Debug\WeBowlerUnitTest.pdb
