@@ -7,13 +7,18 @@ app.config(['$stateProvider', function($stateProvider) {
       templateUrl: 'js/main/templates/home.tpl.html',
       controller: 'HomeCtrl'
     })
-    .state('app.about', {
-      url: '/about',
+    .state('app.game', {
+      url: '/game',
       templateUrl: 'js/main/templates/about.tpl.html',
       controller: 'AboutCtrl'
     })
-    .state('app.contact', {
-      url: '/contact',
+    .state('app.stats', {
+      url: '/stats',
+      templateUrl: 'js/main/templates/about.tpl.html',
+      controller: 'AboutCtrl'
+    })
+    .state('app.league', {
+      url: '/league',
       templateUrl: 'js/main/templates/contact.tpl.html',
       controller: 'ContactCtrl'
     });

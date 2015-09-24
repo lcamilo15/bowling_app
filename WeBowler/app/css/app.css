@@ -27,3 +27,9 @@ body {
 .nav:after {
   clear:both;
 }
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
