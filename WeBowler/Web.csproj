@@ -67,6 +67,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include=".bowerrc" />
+    <Content Include=".jshintrc" />
+    <Content Include=".travis.yml" />
+    <Content Include="app\css\.gitkeep" />
+    <Content Include="app\img\.gitkeep" />
+    <Content Include="bower.json" />
+    <Content Include="LICENSE" />
+    <Content Include="package.json" />
+    <Content Include="README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,7 +84,34 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
+    <Content Include="app\css\app.css" />
+    <Content Include="app\index.html" />
+    <Content Include="app\js\app.js" />
+    <Content Include="app\js\core\controllers\AppCtrl.js" />
+    <Content Include="app\js\core\controllers\NavbarCtrl.js" />
+    <Content Include="app\js\core\directives\VersionDirective.js" />
+    <Content Include="app\js\core\filters\VersionFilter.js" />
+    <Content Include="app\js\core\services\VersionService.js" />
+    <Content Include="app\js\core\state.js" />
+    <Content Include="app\js\core\templates\404.tpl.html" />
+    <Content Include="app\js\core\templates\main.tpl.html" />
+    <Content Include="app\js\core\templates\navbar.tpl.html" />
+    <Content Include="app\js\main\controllers\AboutCtrl.js" />
+    <Content Include="app\js\main\controllers\ContactCtrl.js" />
+    <Content Include="app\js\main\controllers\HomeCtrl.js" />
+    <Content Include="app\js\main\state.js" />
+    <Content Include="app\js\main\templates\about.tpl.html" />
+    <Content Include="app\js\main\templates\contact.tpl.html" />
+    <Content Include="app\js\main\templates\home.tpl.html" />
     <Content Include="TestingFred.html" />
+    <Content Include="test\e2e\scenarios.js" />
+    <Content Include="test\karma.conf.js" />
+    <Content Include="test\protractor-conf.js" />
+    <Content Include="test\unit\controllersSpec.js" />
+    <Content Include="test\unit\directivesSpec.js" />
+    <Content Include="test\unit\filtersSpec.js" />
+    <Content Include="test\unit\servicesSpec.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
