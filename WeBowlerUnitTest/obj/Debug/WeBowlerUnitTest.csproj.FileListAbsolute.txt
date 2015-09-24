@@ -3,3 +3,5 @@ C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\bin\Debug\WeBowler
 C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\obj\Debug\WeBowlerUnitTest.csprojResolveAssemblyReference.cache
 C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\obj\Debug\WeBowlerUnitTest.dll
 C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\obj\Debug\WeBowlerUnitTest.pdb
+C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\bin\Debug\NSubstitute.dll
+C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowlerUnitTest\bin\Debug\NSubstitute.xml
