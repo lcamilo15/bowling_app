@@ -1,0 +1,16 @@
+{
+  "name": "angular-ui-seed",
+  "description": "A starter project for AngularJS",
+  "version": "0.0.2",
+  "homepage": "https://github.com/dokko1230/angular-ui-seed",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "bootstrap": "~3.3.5",
+    "ui-router-extras": "~0.0.14",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
