@@ -17,5 +17,4 @@ C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowler\bin\Microsoft.CodeDom.Prov
 C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowler\obj\Debug\WeBowler.dll
 C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowler\obj\Debug\WeBowler.pdb
-C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowler\bin\WeBowler.dll.CodeAnalysisLog.xml
-C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowler\bin\WeBowler.dll.lastcodeanalysissucceeded
+C:\Users\FMastro\Dropbox\SourceCode\WeBowler\WeBowler\obj\Debug\Web.csprojResolveAssemblyReference.cache

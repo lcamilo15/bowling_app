@@ -101,11 +101,8 @@
     <Content Include="app\js\core\templates\404.tpl.html" />
     <Content Include="app\js\core\templates\main.tpl.html" />
     <Content Include="app\js\core\templates\navbar.tpl.html" />
-    <Content Include="app\js\main\controllers\AboutCtrl.js" />
-    <Content Include="app\js\main\controllers\ContactCtrl.js" />
     <Content Include="app\js\main\controllers\HomeCtrl.js" />
     <Content Include="app\js\main\state.js" />
-    <Content Include="app\js\main\templates\about.tpl.html" />
     <Content Include="app\js\main\templates\contact.tpl.html" />
     <Content Include="app\js\main\templates\home.tpl.html" />
     <Content Include="testing-javascript\bowlingTest.js" />
