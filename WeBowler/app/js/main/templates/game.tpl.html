@@ -1,1 +1,11 @@
-this is the game page
+
+<div class="row">
+  <div class="col-xs-1">&nbsp;</div>
+    <div class="col-xs-1" data-ng-repeat="(index, frame) in selectedGame.frames">
+        <div class="text-center"> {{index + 1}}</div>
+        <div class="row">
+            <input  data-ng-repeat="ball in frame.ball" style="float : left; width: 50%; text-align: center" type="text" class="form-control" id="recipient-name">
+        </div>
+    </div>
+   <div class="col-xs-1">&nbsp;</div>
+</div>
