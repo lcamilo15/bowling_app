@@ -11,11 +11,11 @@ describe( 'main tests', function() {
 describe( 'LifeCycleTests', function() {
 
   beforeEach(function() {
-    console.log('before')
+      console.log('before');
   });
 
   afterEach(function() {
-    console.log('after')
+      console.log('after');
   });
 
   it("test1", function(){
